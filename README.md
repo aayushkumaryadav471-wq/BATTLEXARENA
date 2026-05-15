@@ -24,5 +24,5 @@
 
 ## 📝 Contact
 Agar koi query hai ya tournament join karna hai, toh contact karein:
-* **Developer:** [Your Name]
+* **Developer:** [Aayush yadav]
 * **Location:** Nepal 🇳🇵
